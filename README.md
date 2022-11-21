@@ -1,2 +1,2 @@
 # erc-1155
-nft collectibles
+https://minting-dapp-meharab.vercel.app/
