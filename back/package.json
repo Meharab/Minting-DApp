@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^2.1.8",
-    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts": "^4.9.6",
     "dotenv": "^10.0.0"
   }
 }
